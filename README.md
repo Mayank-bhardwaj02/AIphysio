@@ -2,6 +2,9 @@
 
 PhysioGPT is an AI-powered chatbot that provides early guidance for common musculoskeletal problems like back pain, knee pain, and neck stiffness. Built using Retrieval-Augmented Generation (RAG) architecture with LangChain and GPT-4o, it delivers contextual, research-backed exercise advice and symptom analysis based on user responses.
 
+![PhysioGPT Flowchart](image1.png)
+![PhysioGPT Flowchart](image2.png)
+
 ---
 
 ## 🧠 Features
